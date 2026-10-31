@@ -1,0 +1,4 @@
+{
+    "name": "7M WORLD • COBBLEVERSE",
+    "postStartCommand": "bash -lc '/workspaces/teste/scripts/pkauto >> /tmp/pkauto-startup.log 2>&1'"
+}
